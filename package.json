@@ -52,5 +52,10 @@
   "bugs": {
     "url": "https://github.com/fczuardi/caleb-sample/issues"
   },
-  "homepage": "https://github.com/fczuardi/caleb-sample#readme"
+  "homepage": "https://github.com/fczuardi/caleb-sample#readme",
+  "dependencies": {
+    "aws-sdk": "^2.6.6",
+    "calamars": "^0.17.3",
+    "express": "^4.14.0"
+  }
 }
